@@ -1,0 +1,115 @@
+Error: ArrayIndexOutOfBoundsException(Semantic)
+Record: 1990,Total Recall,113,Action,R,7.5,Paul Verhoeven,Ronny Cox,Rachel Ticotin,Marshall Bell,actor 4?
+File: Movies1990.csv
+Line: 16
+
+Error: BadYearException(Semantic)
+Record: 2991,Hudson Hawk,100,Action,R,5.7,Michael Lehmann,Bruce Willis,James Coburn,Richard E. Grant
+File: Movies1991.csv
+Line: 10
+
+Error: BadDurationException(Semantic)
+Record: 1991,Hook,333,Adventure,PG,6.7,Steven Spielberg,Robin Williams,Julia Roberts,Bob Hoskins
+File: Movies1991.csv
+Line: 26
+
+Error: BadYearException(Semantic)
+Record: 2991,Hudson Hawk,100,Action,R,5.7,Michael Lehmann,Bruce Willis,James Coburn,Richard E. Grant
+File: Movies1991.csv
+Line: 10
+
+Error: BadDurationException(Semantic)
+Record: 1991,Hook,333,Adventure,PG,6.7,Steven Spielberg,Robin Williams,Julia Roberts,Bob Hoskins
+File: Movies1991.csv
+Line: 26
+
+Error: BadDurationException(Semantic)
+Record: 1993,"Blood In, Blood Out",330,Crime,R,8,Taylor Hackford,Delroy Lindo,Jesse Borrego,Raymond Cruz
+File: Movies1993.csv
+Line: 7
+
+Error: BadNameException(Semantic)
+Record: 1993,Hocus Pocus,96,Comedy,PG,6.7,,Vinessa Shaw,Omri Katz,Larry Bagby
+File: Movies1993.csv
+Line: 22
+
+Error: BadNameException(Semantic)
+Record: 1994,There Goes My Baby,99,Comedy,R,6.4,Floyd Mutrux,Ricky Schroder,,Seymour Cassel
+File: Movies1994.csv
+Line: 1
+
+Error: BadScoreException(Semantic)
+Record: 1994,Wyatt Earp,212,Adventure,PG-13,,Lawrence Kasdan,Dennis Quaid,Catherine O'Hara,Isabella Rossellini
+File: Movies1994.csv
+Line: 16
+
+Error: BadDurationException(Semantic)
+Record: 1994,Richie Rich,,Comedy,PG,5.2,Donald Petrie,Macaulay Culkin,John Larroquette,Jonathan Hyde
+File: Movies1994.csv
+Line: 20
+
+Error: BadGenreException(Semantic)
+Record: 1996,Bound,109,Krime,R,,Lana Wachowski,Christopher Meloni,Kevin Michael Richardson,Peter Spellos
+File: Movies1996.csv
+Line: 9
+
+Error: BadYearException(Semantic)
+Record: l996,Bogus,110,Comedy,,5.3,Norman Jewison,Haley Joel Osment,Nancy Travis,Andrea Martin
+File: Movies1996.csv
+Line: 11
+
+Error: BadYearException(Semantic)
+Record: -1996,The Fan,116,Action,R,,Tony Scott,Robert De Niro,Kurt Fuller,Ellen Barkin
+File: Movies1996.csv
+Line: 28
+
+Error: BadDurationException(Semantic)
+Record: 1996,Striptease,1170,Comedy,R,4.3,Andrew Bergman,Demi Moore,Rumer Willis,Paul Guilfoyle
+File: Movies1996.csv
+Line: 45
+
+Error: BadYearException(Semantic)
+Record: 2996,Broken Arrow,900,Action,R,60,John Woo,Delroy Lindo,Samantha Mathis,Bob Gunton
+File: Movies1996.csv
+Line: 67
+
+Error: MissingFieldsException(Syntax)
+Record: 1997,Chasing Amy,113,Comedy,R,7.3,Kevin Smith,Matt Damon,Ethan Suplee,
+File: Movies1997.csv
+Line: 27
+
+Error: BadGenreException(Semantic)
+Record: 1999,Crazy in Alabama,111,Komedy,PG-13,6.3,Antonio Banderas,Meat Loaf,,Noah Emmerich
+File: Movies1999.csv
+Line: 13
+
+Error: BadYearException(Semantic)
+Record: l999,A Dog of Flanders,,,PG,6.3,Kevin Brodie,Bruce McGill,Cheryl Ladd,Jack Warden
+File: Movies1999.csv
+Line: 16
+
+Error: BadYearException(Semantic)
+Record: 2999,Foolish,384,Comedy,R,4.3,Dave Meyers,,Clifton Powell,Marla Gibbs
+File: Movies1999.csv
+Line: 30
+
+Error: BadGenreException(Semantic)
+Record: 1999,Snow Falling on Cedars,127,Druma,PG-13,6.8,Scott Hicks,Rick Yune,Reeve Carney,Daniel von Bargen
+File: Movies1999.csv
+Line: 52
+
+Error: BadYearException(Semantic)
+Record: -1999,The Bone Collector,118,Crime,,6.7,Phillip Noyce,Denzel Washington,Angelina Jolie Pitt,Leland Orser
+File: Movies1999.csv
+Line: 103
+
+Error: BadGenreException(Semantic)
+Record: 1999,The Thomas Crown Affair,113,Krime,R,6.8,John McTiernan,Mark Margolis,Faye Dunaway,Denis Leary
+File: Movies1999.csv
+Line: 106
+
+Error: BadTitleException(Semantic)
+Record: 1999,,102,Adventure,PG,7.3,Dean Parisot,Alan Rickman,Enrico Colantoni,Robin Sachs
+File: Movies1999.csv
+Line: 107
+
